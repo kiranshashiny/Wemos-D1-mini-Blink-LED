@@ -8,8 +8,7 @@ The board configuration and pin details are found here.
 
 https://wiki.wemos.cc/products:d1:d1_mini
 
-
-The pins can be referred to as D1, D4 and D4 while programming in the Arduino IDE.
+The pins can be referred to as D1, D4 and D8 while programming in the Arduino IDE.
 
 Settings :
 
@@ -48,6 +47,10 @@ If the list of boards does not show the Wemos then remove the other managers jso
 ![Screen Shot 2019-06-21 at 12 37 07 PM](https://user-images.githubusercontent.com/14288989/59904495-4db43c80-9421-11e9-87da-6938cf68c40f.png)
 
 
+
+### Pin diagram, Can give out both 5v and 3.3v 
+
+![Screen Shot 2019-06-21 at 12 54 07 PM](https://user-images.githubusercontent.com/14288989/59905403-c5836680-9423-11e9-85eb-b6cbd48cc6de.png)
 
 
 
