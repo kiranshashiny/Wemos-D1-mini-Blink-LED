@@ -25,12 +25,29 @@ If you have installed the CH340 then there is no need to install this again.
 
 
 Troubleshooting :
+1.
 
 If the Upload does not work or fails with the "Waiting for packet header" message, then 
 
 change the Upload speed to 115200, board to the appropriate Wemos board.
 
 ![Screen Shot 2019-06-21 at 12 21 39 PM](https://user-images.githubusercontent.com/14288989/59903645-278d9d00-941f-11e9-9bdb-dd834cc29dba.png)
+
+
+2.
+
+If the list of boards does not show the Wemos then remove the other managers json entries in Arduino -> Preferences -> Boards Manager and just include the board manager json line as indicated above.
+
+![Screen Shot 2019-06-21 at 12 34 58 PM](https://user-images.githubusercontent.com/14288989/59904400-075edd80-9421-11e9-8c9a-18101964e424.png)
+
+
+
+
+3. Arduino -> Preferences -> Boards Manager snapshot.
+
+![Screen Shot 2019-06-21 at 12 37 07 PM](https://user-images.githubusercontent.com/14288989/59904495-4db43c80-9421-11e9-87da-6938cf68c40f.png)
+
+
 
 
 
