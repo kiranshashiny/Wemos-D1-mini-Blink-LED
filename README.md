@@ -67,3 +67,11 @@ A sample Blink program with a LED connected to D4 ( i.e the one after the "G" pi
 		  digitalWrite(LED_BUILTINN, HIGH);  // Turn the LED off by making the voltage HIGH
 		  delay(500);                      // Wait for two seconds (to demonstrate the active low LED)
 		}
+
+
+### Board Manager json details - if you were to open it - you will see the Wemos D1 mini is mentioned.
+
+![Screen Shot 2019-06-21 at 12 26 19 PM](https://user-images.githubusercontent.com/14288989/59903903-d205c000-941f-11e9-8cdd-5d0815cbad63.png)
+
+
+
