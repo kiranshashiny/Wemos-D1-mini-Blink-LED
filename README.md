@@ -40,6 +40,7 @@ If the list of boards does not show the Wemos then remove the other managers jso
 ![Screen Shot 2019-06-21 at 12 34 58 PM](https://user-images.githubusercontent.com/14288989/59904400-075edd80-9421-11e9-8c9a-18101964e424.png)
 
 
+Change the Upload speed to "115200"
 
 
 3. Arduino -> Preferences -> Boards Manager snapshot.
